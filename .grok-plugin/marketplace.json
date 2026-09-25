@@ -386,7 +386,7 @@
     {
       "name": "smartreply",
       "description": "Manage SmartReply customer support agents, instructions, sandbox tests, conversations, and permitted actions and escalations.",
-      "category": "productivity",
+      "category": "support",
       "source": {
         "source": "url",
         "url": "https://github.com/inchargeads/smartreply-plugin.git",
