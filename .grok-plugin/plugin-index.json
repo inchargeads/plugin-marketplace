@@ -918,6 +918,34 @@
         ]
       }
     },
+    "smartreply": {
+      "sha": "7669dbcd5de2c5894f7891528fa4a932cf9763c6",
+      "version": "1.0.2",
+      "components": {
+        "commands": [
+          {
+            "name": "escalations",
+            "description": "Show SmartReply escalations waiting on you and help respond to them"
+          },
+          {
+            "name": "test-reply",
+            "description": "Test how your SmartReply agent answers a customer comment or message"
+          }
+        ],
+        "mcpServers": [
+          {
+            "name": "smartreply",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "smartreply-account",
+            "description": "Manage a SmartReply AI customer service agent through its MCP tools. Use when the user wants to set up or troubleshoot…"
+          }
+        ]
+      }
+    },
     "stripe": {
       "sha": "af7c088ac40115e23ab5fa60b5b968d71e801b97",
       "version": "0.8.6",

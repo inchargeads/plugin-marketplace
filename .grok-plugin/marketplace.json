@@ -382,6 +382,27 @@
       "homepage": "https://enrichlabs.ai",
       "keywords": ["helena", "enrich labs", "helena ai marketer", "helena marketing ai agent", "helena autonomous marketer", "helena marketing"],
       "domains": ["enrichlabs.ai", "agent.enrichlabs.ai"]
+    },
+    {
+      "name": "smartreply",
+      "description": "Manage SmartReply customer support agents, instructions, sandbox tests, conversations, and permitted actions and escalations.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/inchargeads/smartreply-plugin.git",
+        "sha": "7669dbcd5de2c5894f7891528fa4a932cf9763c6"
+      },
+      "homepage": "https://smartreply.io",
+      "keywords": [
+        "smartreply",
+        "smartreply agent",
+        "smartreply customer support"
+      ],
+      "domains": [
+        "smartreply.io",
+        "app.smartreply.io",
+        "help.smartreply.io"
+      ]
     }
   ]
 }
