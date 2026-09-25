@@ -390,7 +390,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/inchargeads/smartreply-plugin.git",
-        "sha": "7669dbcd5de2c5894f7891528fa4a932cf9763c6"
+        "sha": "f38da1468fff4ac54b7f48cc4089a6ac7cb64f71"
       },
       "homepage": "https://smartreply.io",
       "keywords": [

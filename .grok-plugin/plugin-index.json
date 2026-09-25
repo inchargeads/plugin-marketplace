@@ -919,8 +919,8 @@
       }
     },
     "smartreply": {
-      "sha": "7669dbcd5de2c5894f7891528fa4a932cf9763c6",
-      "version": "1.0.2",
+      "sha": "f38da1468fff4ac54b7f48cc4089a6ac7cb64f71",
+      "version": "1.0.3",
       "components": {
         "commands": [
           {
